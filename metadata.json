@@ -1,0 +1,5 @@
+{
+  "name": "LaTeX to Exam Pro_SEND",
+  "description": "A professional tool to convert LaTeX exam questions to Word documents, rendering TikZ graphics to images and handling complex question formats.",
+  "requestFramePermissions": []
+}
